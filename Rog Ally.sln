@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rog Ally", "Rog Ally\Rog Ally.csproj", "{469C6BD8-C010-45C0-8DD7-9ACAEB08014D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{469C6BD8-C010-45C0-8DD7-9ACAEB08014D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469C6BD8-C010-45C0-8DD7-9ACAEB08014D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469C6BD8-C010-45C0-8DD7-9ACAEB08014D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469C6BD8-C010-45C0-8DD7-9ACAEB08014D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05DCF351-D41C-4A8E-A9BC-9F8E47EA3238}
+	EndGlobalSection
+EndGlobal

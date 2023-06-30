@@ -1,0 +1,11 @@
+C:\Users\StealUrKill_PhD\source\repos\Rog Ally\Rog Ally\bin\Debug\Rog Ally.exe.config
+C:\Users\StealUrKill_PhD\source\repos\Rog Ally\Rog Ally\bin\Debug\Rog Ally.exe
+C:\Users\StealUrKill_PhD\source\repos\Rog Ally\Rog Ally\bin\Debug\Rog Ally.pdb
+C:\Users\StealUrKill_PhD\source\repos\Rog Ally\Rog Ally\obj\Debug\Rog Ally.csproj.AssemblyReference.cache
+C:\Users\StealUrKill_PhD\source\repos\Rog Ally\Rog Ally\obj\Debug\Rog Ally.csproj.SuggestedBindingRedirects.cache
+C:\Users\StealUrKill_PhD\source\repos\Rog Ally\Rog Ally\obj\Debug\Rog_Ally.MainForm.resources
+C:\Users\StealUrKill_PhD\source\repos\Rog Ally\Rog Ally\obj\Debug\Rog_Ally.Properties.Resources.resources
+C:\Users\StealUrKill_PhD\source\repos\Rog Ally\Rog Ally\obj\Debug\Rog Ally.csproj.GenerateResource.cache
+C:\Users\StealUrKill_PhD\source\repos\Rog Ally\Rog Ally\obj\Debug\Rog Ally.csproj.CoreCompileInputs.cache
+C:\Users\StealUrKill_PhD\source\repos\Rog Ally\Rog Ally\obj\Debug\Rog Ally.exe
+C:\Users\StealUrKill_PhD\source\repos\Rog Ally\Rog Ally\obj\Debug\Rog Ally.pdb
